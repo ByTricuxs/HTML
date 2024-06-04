@@ -1,0 +1,83 @@
+.container{
+    max-width: 1700px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.cuadro{
+    background-color:#f8f9fa ;
+    border: solid 0.5px;
+    width: 220px;
+    height: auto;
+    float: right;
+    padding: 10px;
+}
+
+.imagen{
+    border: solid 1px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+caption{
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+    color: #3365ca;
+    
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+
+.provincia{
+    margin-left: 5px;
+}
+
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    padding: 10px;
+    background-color: #eaecf0;
+    border: solid 1px; 
+}
+
+td{
+    background-color: #f8f9fa;
+    border: solid 1px; 
+    padding: 5px;
+    
+}
+
+.right{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
+
+.bottom-margin {
+    margin-bottom: 100px;
+}
+
+
+
